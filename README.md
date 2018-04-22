@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple web project showing us how to use git and github together Adding a line for rebasing example.
-then more changes from myfeature branch too.
+then more changes from myfeature branch too. Updating for emergency fix after stashing.
+
 ##Introduction
 
 This is example is to show different parts of the Git repository and various comands using a web project 
@@ -18,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository then issue pull request
 ###Copyright
 
-2014 Git.Training
+2014 Git.Training. All rights  reserved.
